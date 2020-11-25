@@ -1,1 +1,2 @@
-"# mn20_Szul_Michal" 
+Michał Szul
+Metody numeryczne 2020
