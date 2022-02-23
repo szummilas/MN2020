@@ -1,3 +1,1 @@
-Michał Szul
-
-Metody numeryczne 2020
+# Metody Numeryczne 2020
